@@ -1,0 +1,3 @@
+[submodule "terminal-addalias"]
+	path = terminal-addalias
+	url = https://github.com/TylerOlson/terminal-addalias
