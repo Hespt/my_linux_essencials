@@ -10,3 +10,6 @@
 [submodule "redshift"]
 	path = redshift
 	url = https://github.com/jonls/redshift
+[submodule "Win10/themes"]
+	path = Win10/themes
+	url = https://github.com/luizfnunes/JacWin10/
