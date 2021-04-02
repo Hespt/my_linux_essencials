@@ -4,3 +4,6 @@
 [submodule "Extract"]
 	path = Extract
 	url = https://github.com/xvoland/Extract
+[submodule "neofetch"]
+	path = neofetch
+	url = https://github.com/dylanaraps/neofetch
