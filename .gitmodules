@@ -7,3 +7,6 @@
 [submodule "neofetch"]
 	path = neofetch
 	url = https://github.com/dylanaraps/neofetch
+[submodule "redshift"]
+	path = redshift
+	url = https://github.com/jonls/redshift
