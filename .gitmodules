@@ -1,3 +1,6 @@
 [submodule "terminal-addalias"]
 	path = terminal-addalias
 	url = https://github.com/TylerOlson/terminal-addalias
+[submodule "Extract"]
+	path = Extract
+	url = https://github.com/xvoland/Extract
