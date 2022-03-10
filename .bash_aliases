@@ -51,5 +51,4 @@ alias addalias=~/.scripts/addalias.sh
 alias getalias=~/.scripts/getaliases.sh
 alias remalias=~/.scripts/removealias.sh
 alias getapp='sudo apt install -y'
-alias srcupdate='source ~/.bashrc && source ~/.zshrc && source ~~'
 alias srcupdate='source ~/.bashrc && source ~/.zshrc && source ~/.bash_aliases'
