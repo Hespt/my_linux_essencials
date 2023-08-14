@@ -1,4 +1,4 @@
-"sudo apt kali-win-kex"
+"sudo apt install kali-win-kex"
 "sudo apt install zsh"
 Install oh-my-zsh
-"sudo apt alacarte"
+"sudo apt install alacarte"
