@@ -1,4 +1,4 @@
-install brave \n
-install ohmyzsh \n
-install sublimetext \n
-install ezame \n
+install brave \n\r
+install ohmyzsh \n\r
+install sublimetext \n\r
+install ezame \n\r
